@@ -1,0 +1,12 @@
+.bbm-container{
+	padding:10px;
+}
+
+.bbm-container table.form-table,
+.bbm-container table.form-table tr th {
+	width:auto;
+}
+
+.bbm-container table.form-table div.error {
+	margin-left: 0;
+}
